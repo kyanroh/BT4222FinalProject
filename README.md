@@ -15,13 +15,13 @@ Welcome to the Steam Game Recommendation System! Our project aims to enhance the
 
 ## Models
 ### Similarity-Based Models
-Model 1: [Brief description]
-Model 2: [Brief description]
+Model 1: [Brief description] <br />
+Model 2: [Brief description] <br />
 ### Diversity and Novelty-Based Models
-Model 3: [Brief description]
+Model 3: [Brief description] <br />
 Model 4: [Brief description]
 ### Hybrid Model
-Model 5: [Brief description]
+Model 5: [Brief description] <br />
 ## How to Run
 To run our Python code and generate game recommendations, follow these steps:
 """ """
@@ -29,19 +29,11 @@ To run our Python code and generate game recommendations, follow these steps:
 ## Datasets
 We have the following datasets available for use:
 
-Dataset 1: [Description]
-Dataset 2: [Description]
-Dataset 3:
+Dataset 1: [Description <br />
+Dataset 2: [Description] <br />
+Dataset 3: <br />
 
-## Contributing
-We welcome contributions from the community to improve our recommendation system. If you're interested in contributing, please follow these guidelines:
+## Contribution
 
-Fork the repository
-Make your changes
-Submit a pull request detailing your contributions
 
-## License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
-
-## Contact
-If you have any questions or feedback, feel free to reach out to us.
+## Running the code
