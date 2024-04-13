@@ -15,23 +15,26 @@ Welcome to the Steam Game Recommendation System! Our project aims to enhance the
 
 ## Models
 ### Similarity-Based Models
-Model 1: [Brief description] <br />
-Model 2: [Brief description] <br />
+Model 1: Content-Based Filtering <br />
+Model 2: Collaborative Filtering <br />
 ### Diversity and Novelty-Based Models
-Model 3: [Brief description] <br />
-Model 4: [Brief description]
+Model 3: Collaborative Filtering Novelty <br />
+Model 4: Neural Collaborative Filtering <br />
 ### Hybrid Model
-Model 5: [Brief description] <br />
+Model 5: Hybrid Model <br />
 ## How to Run
 To run our Python code and generate game recommendations, follow these steps:
-""" """
+### Step 1: Data Cleaning
+Start by running the code to clean the data.
+### Step 2: 
+
 
 ## Datasets
 We have the following datasets available for use:
 
-Dataset 1: [Description <br />
-Dataset 2: [Description] <br />
-Dataset 3: <br />
+Dataset 1: games.csv <br />
+Dataset 2: recommendations.csv <br />
+Dataset 3: users.csv <br />
 
 ## Contribution
 
