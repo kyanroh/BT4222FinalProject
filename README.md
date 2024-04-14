@@ -4,7 +4,7 @@
 Karen Law,
 Marco Mah, 
 Teo Yee Hui, 
-Tan Zhen Kang, 
+Tan Zhengkang, 
 Alistar Tan, 
 Ryan Koh
 
