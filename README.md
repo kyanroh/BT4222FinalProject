@@ -24,10 +24,13 @@ Model 4: Neural Collaborative Filtering <br />
 Model 5: Hybrid Model <br />
 ## How to Run
 To run our Python code and generate game recommendations, follow these steps:
-### Step 1: Data Cleaning
-Start by running the code to clean the data.
-### Step 2: 
-
+### Step 1: Extrapolatory Data Analysis
+Start by running the code to explore the data visually and statistically to gain insights into its characteristics and relationships. 
+### Step 2: Data Preprocessing
+In this step, we have 3 different codes to clean up 3 different datasets which are:
+Data Preprocessing (game):
+Data Preprocessing (user):
+Data Preprocessing (recommendation): In this code, feature engineering and feature crosses ????
 
 ## Datasets
 We have the following datasets available for use:
