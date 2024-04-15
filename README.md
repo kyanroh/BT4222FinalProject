@@ -1,6 +1,6 @@
 #### BT4222 Final Project Recommendation System Group 9
 # Project Title: Steam Game Recommendation System
-### Members: 
+### Recommendation System Group 9 Members: 
 Karen Law,
 Marco Mah, 
 Teo Yee Hui, 
