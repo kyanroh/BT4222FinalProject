@@ -18,8 +18,8 @@ Welcome to the Steam Game Recommendation System! Our project aims to enhance the
 Model 1: Content-Based Filtering <br />
 Model 2: Collaborative Filtering <br />
 ### Diversity and Novelty-Based Models
-Model 3: Collaborative Filtering Novelty <br />
-Model 4: Neural Collaborative Filtering <br />
+Model 3: Collaborative Filtering for Diversity and Novelty <br />
+Model 4: Neural Collaborative Filtering for Novelty <br />
 ### Hybrid Model
 Model 5: Hybrid Model <br />
 ## How to Run
@@ -52,8 +52,8 @@ Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
   4. clustering.csv
   5. item_matrix.py
 <br/>
-Step 3.3 - Collaborative Filtering Novelty <br />
-Step 3.4 - Neural Collaborative Filtering <br />
+Step 3.3 - Collaborative Filtering for Diversity and Novelty <br />
+Step 3.4 - Neural Collaborative Filtering for Novelty <br />
 Step 3.5 - Hybrid Model <br />
 
 
