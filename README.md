@@ -66,9 +66,15 @@ Dataset 5: clustering.csv <br />
 Step 3.1 - Content-Based Filtering <br />
 
 - To run the model, ensure the following files are in the same directory as the notebook:
--
 
-Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
+1. recommendations_with_score.csv
+2. sample_user_data.csv
+3. games_cleaned.csv
+4. clustering.csv
+5. item_matrix.py
+6. games_metadata.json
+   <br/>
+   Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
 
 - To run the model, ensure the following files are in the same directory as the notebook:
   1. recommendations_with_score.csv
@@ -107,7 +113,15 @@ Step 3.4 - Neural Collaborative Filtering for Novelty <br />
 
 Step 3.5 - Hybrid Model <br />
 
-- The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in `hybrid.ipynb`.
+- The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in `hybrid.ipynb`. Ensure the following files are in the same directory as the notebook:
+
+  1. recommendations_with_score.csv
+  2. sample_user_data.csv
+  3. games_cleaned.csv
+  4. clustering.csv
+  5. item_matrix.py
+  6. games_metadata.json
+     <br/>
 
 ## Datasets [This part we need to edit to include everything data we need to run the models]
 
