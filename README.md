@@ -20,6 +20,9 @@ Welcome to the Steam Game Recommendation System! Our project aims to enhance the
 ### Similarity-Based Models
 
 Model 1: Content-Based Filtering <br />
+
+- To recommend similar games to games the users have liked based on item features <br />
+
 Model 2: Collaborative Filtering <br />
 
 - To recommend games using similar games that users played <br />
