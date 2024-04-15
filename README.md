@@ -17,7 +17,7 @@ Welcome to the Steam Game Recommendation System! Our project aims to enhance the
 ### Similarity-Based Models
 Model 1: Content-Based Filtering <br />
 Model 2: Collaborative Filtering <br />
-- To recommend games using the games that the similar users played <br />
+- To recommend games based on their similarity to other games users have played <br />
 
 ### Diversity and Novelty-Based Models
 Model 3: Collaborative Filtering for Diversity and Novelty <br />
@@ -54,20 +54,20 @@ Step 3.1 - Content-Based Filtering <br />
 - To run the model, ensure the following files are in the same directory as the notebook:
 - 
 Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
-- To run the model, ensure the following files are in the same directory as the notebook:
-  1. recommendations_with_score.csv
-  2. sample_user_data.csv
-  3. games_cleaned.csv
-  4. clustering.csv
-  5. item_matrix.py
+- To run the model, ensure the following files are in the same directory as the notebook: <br />
+  1. recommendations_with_score.csv <br />
+  2. sample_user_data.csv <br />
+  3. games_cleaned.csv <br />
+  4. clustering.csv <br />
+  5. item_matrix.py <br />
 <br/>
 Step 3.3 - Collaborative Filtering for Diversity and Novelty <br />
-- To run the model, ensure the following files are in the same directory as the notebook:
-  1. recommendations_with_score.csv
-  2. sample_user_data.csv
-  3. games_cleaned.csv
-  4. clustering.csv
-  5. item_matrix.py
+- To run the model, ensure the following files are in the same directory as the notebook:<br />
+  1. recommendations_with_score.csv <br />
+  2. sample_user_data.csv <br />
+  3. games_cleaned.csv <br />
+  4. clustering.csv <br />
+  5. item_matrix.py <br />
 Step 3.4 - Neural Collaborative Filtering for Novelty <br />
 - To run the model, ensure the following files are in the same directory as the notebook:
   1. recommendations_with_score.csv
