@@ -61,6 +61,7 @@ Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
   4. clustering.csv
   5. item_matrix.py
 <br/>
+
 Step 3.3 - Collaborative Filtering for Diversity and Novelty <br />
 - To run the model, ensure the following files are in the same directory as the notebook: <br/>
 
@@ -70,6 +71,7 @@ Step 3.3 - Collaborative Filtering for Diversity and Novelty <br />
   4. clustering.csv
   5. item_matrix.py
 <br/>
+
 Step 3.4 - Neural Collaborative Filtering for Novelty <br />
 - To run the model, ensure the following files are in the same directory as the notebook:
   1. recommendations_with_score.csv
@@ -78,6 +80,7 @@ Step 3.4 - Neural Collaborative Filtering for Novelty <br />
   4. clustering.csv
   5. item_matrix.py
   <br/>
+  
 Step 3.5 - Hybrid Model <br />
 
 - The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in `hybrid.ipynb`.
