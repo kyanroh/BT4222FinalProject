@@ -33,7 +33,7 @@ Start by running the code to explore the data visually and statistically to gain
 Step 2.1 - Data Preprocessing (game) <br />
 Step 2.2 - Data Preprocessing (user) <br />
 Step 2.3 - Data Preprocessing (recommendations) <br />
-Step 2.4 - Data Preprocessing (getting_user_sample_data): <br />
+Step 2.4 - Data Preprocessing (user_sample_data): <br />
 As the original datasets were too big for our local machines and Google Colab to process, we decided to use a smaller sample of users
 for our recommendation system. Hence, we randomly sampled 30000 users from the user dataset. In our respective models, we will filter the recommendations and games data such that it only contains recommendations and games
 that are linked to the 30000 users. <br />
