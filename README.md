@@ -24,7 +24,7 @@ Model 4: Neural Collaborative Filtering for Novelty <br />
 Model 5: Hybrid Model <br />
 ## How to Run
 To run our Python code and generate game recommendations, download the entire repository to your local computer, and follow these steps: <br />
-### Step 1: Extrapolatory Data Analysis 
+### Step 1: Exploratory Data Analysis 
 Start by running the code to explore the data visually and statistically to gain insights into its characteristics and relationships. <br />
 ### Step 2: Data Preprocessing and Preparation
 
