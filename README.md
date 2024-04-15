@@ -51,6 +51,7 @@ Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
   3. games_claened.csv
   4. clustering.csv
   5. item_matrix.py
+<br/>
 Step 3.3 - Collaborative Filtering Novelty <br />
 Step 3.4 - Neural Collaborative Filtering <br />
 Step 3.5 - Hybrid Model <br />
