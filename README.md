@@ -30,7 +30,12 @@ Model 2: Collaborative Filtering <br />
 ### Diversity and Novelty-Based Models
 
 Model 3: Collaborative Filtering for Diversity and Novelty <br />
+
+- To recommend games to users based on the gaming preferences of dissimilar users <br />
+
 Model 4: Neural Collaborative Filtering for Novelty <br />
+
+- To recommend novel games to users based on unpopularity scores, game rating, and enthusiasm of user  <br />
 
 ### Hybrid Model
 
