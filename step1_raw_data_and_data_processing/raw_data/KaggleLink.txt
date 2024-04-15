@@ -1,0 +1,2 @@
+As the datasets are too large in size to be uploaded:
+Download the datasets from: https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv
