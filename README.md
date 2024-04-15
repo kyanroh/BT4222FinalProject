@@ -67,12 +67,12 @@ Step 3.1 - Content-Based Filtering <br />
 
 - To run the model, ensure the following files are in the same directory as the notebook:
 
-1. recommendations_with_score.csv
-2. sample_user_data.csv
-3. games_cleaned.csv
-4. clustering.csv
-5. item_matrix.py
-6. games_metadata.json
+   1. recommendations_with_score.csv
+   2. sample_user_data.csv
+   3. games_cleaned.csv
+   4. clustering.csv
+   5. item_matrix.py
+   6. games_metadata.json
    <br/>
    Step 3.2 - Collaborative Filtering (`collaborative_filtering.ipynb`) <br />
 
