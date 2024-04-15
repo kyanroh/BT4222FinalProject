@@ -32,7 +32,7 @@ Step 2.1 - Data Preprocessing (user_sample???): Get 30,000 users?? <br />
 Step 2.2 - Data Preprocessing (game): <br />
 Step 2.3 - Data Preprocessing (user): <br />
 Step 2.4 - Data Preprocessing (recommendation): In this code, feature engineering and feature crosses ????Details of the steps were commented at the top. <br />
-Step 2.5 - Data Preparation (`clustering.ipynb`): This code is to cluster the users into different clusters, to prepare for evaluating the models for precision@k (accuracy). 
+Step 2.5 - Data Preparation (`clustering.ipynb`): This code is to cluster the users into different clusters, to prepare for evaluating the models using precision@k (accuracy). 
 
 The results are saved into the folder 'Cleaned Data': <br />
 
