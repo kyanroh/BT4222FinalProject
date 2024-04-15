@@ -33,7 +33,7 @@ Model 4: Neural Collaborative Filtering for Novelty <br />
 
 Model 5: Hybrid Model <br />
 
-- To provide a combination of games based on the different model.
+- To provide a combination of games based on the different models
 
 ## How to Run
 
