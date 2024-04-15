@@ -42,8 +42,6 @@ To run our Python code and generate game recommendations, download the entire re
 Start by running the code to explore the data visually and statistically to gain insights into its characteristics and relationships. <br />
 
 ### Step 2: Data Preprocessing and Preparation
-
-<br />
 ### Step 2.1 - Data Preprocessing (game) <br />
 Combined with game metadata file <br />
 ### Step 2.2 - Data Preprocessing (user) <br />
