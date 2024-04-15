@@ -33,6 +33,8 @@ Model 4: Neural Collaborative Filtering for Novelty <br />
 
 Model 5: Hybrid Model <br />
 
+- To provide a combination of games based on the different model.
+
 ## How to Run
 
 To run our Python code and generate game recommendations, download the entire repository to your local computer, and follow these steps: <br />
