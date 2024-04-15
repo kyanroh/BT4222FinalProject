@@ -13,7 +13,7 @@ import pandas as pd
 
 # Load datasets
 games_df = pd.read_csv("games_cleaned.csv")
-games_pca_df = pd.read_csv("games_cleaned_PCA.csv", usecols=['title', 'app_id', 'user_reviews_log', 'positive_ratio_log', 'price_original_log'] + ['PC{}'.format(i) for i in range(1, 116)])
+#games_pca_df = pd.read_csv("games_cleaned_PCA.csv", usecols=['title', 'app_id', 'user_reviews_log', 'positive_ratio_log', 'price_original_log'] + ['PC{}'.format(i) for i in range(1, 116)])
 recommendations_df = pd.read_csv("recommendations_with_score.csv", usecols=['user_id','app_id', 'hours_log', 'is_recommended','recommendation_credibility_normalized_log'])
 users_df = pd.read_csv("sample_user_data.csv", usecols=['user_id', 'user_credibility_log','reviews'])
 df_with_clusters = pd.read_csv("clustering.csv")

@@ -13,7 +13,7 @@ import pandas as pd
 #games_metadata = pd.read_json("/content/drive/MyDrive/BT4222/Data/games_metadata.json", lines=True)
 #games_data = pd.read_csv("/content/drive/MyDrive/BT4222/Data/games.csv")
 games_metadata = pd.read_json("games_metadata.json", lines=True)
-games_data = pd.read_csv("games_cleaned_PCA.csv")
+#games_data = pd.read_csv("games_cleaned_PCA.csv")
 recommendations_data = pd.read_csv("recommendations_with_score.csv")
 users_data = pd.read_csv("sample_user_data.csv")
 cluster_data = pd.read_csv("clustering.csv")
