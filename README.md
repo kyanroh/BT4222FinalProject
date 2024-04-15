@@ -83,7 +83,14 @@ Step 3.4 - Neural Collaborative Filtering for Novelty <br />
   
 Step 3.5 - Hybrid Model <br />
 
-- The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in `hybrid.ipynb`.
+- The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in `hybrid.ipynb`. Ensure the following files are in the same directory as the notebook:
+  1. recommendations_with_score.csv
+  2. sample_user_data.csv
+  3. games_cleaned.csv
+  4. clustering.csv
+  5. item_matrix.py
+  <br/>
+  
 
 
 ## Datasets [This part we need to edit to include everything data we need to run the models]
