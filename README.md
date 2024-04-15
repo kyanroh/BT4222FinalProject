@@ -61,7 +61,7 @@ Step 3.3 - Collaborative Filtering for Diversity and Novelty <br />
 Step 3.4 - Neural Collaborative Filtering for Novelty <br />
 Step 3.5 - Hybrid Model <br />
 - The hybrid model folder contains the hybrid model file with its dependency files. To run the model, execute the code in 'hybrid.ipynb'.
-
+<br />
 
 
 ## Datasets [This part we need to edit to include everything data we need to run the models]
