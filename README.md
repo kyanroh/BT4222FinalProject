@@ -44,14 +44,17 @@ Start by running the code to explore the data visually and statistically to gain
 ### Step 2: Data Preprocessing and Preparation
 
 <br />
-Step 2.1 - Data Preprocessing (game) <br />
-Step 2.2 - Data Preprocessing (user) <br />
-Step 2.3 - Data Preprocessing (user_sample_data): <br />
+### Step 2.1 - Data Preprocessing (game) <br />
+Combined with game metadata file <br />
+### Step 2.2 - Data Preprocessing (user) <br />
+Included in the user credibility score <br />
+### Step 2.3 - Data Preprocessing (user_sample_data): <br />
 As the original datasets were too big for our local machines and Google Colab to process, we decided to use a smaller sample of users
-for our recommendation system. Hence, we randomly sampled 30000 users from the user dataset. In our respective models, we will filter the recommendations and games data such that it only contains recommendations and games
-that are linked to the 30000 users. <br />
-Step 2.4 - Data Preprocessing (recommendations) <br />
-Step 2.5 - Data Preparation (`clustering.ipynb`): This code is to cluster the users into different clusters, to prepare for evaluating the models using precision@k (accuracy).
+for our recommendation system. Hence, we randomly sampled 30000 users from the user dataset. In our respective models, we will filter the recommendations and games data to only contain recommendations and games linked to the 30000 users. <br />
+### Step 2.4 - Data Preprocessing (recommendations) <br />
+Recommendations credibility score <br />
+### Step 2.5 - Data Preparation (`clustering.ipynb`): <br />
+This code is to cluster the users into different clusters, to prepare for evaluating the models using precision@k (accuracy). <br />
 
 The results are saved into the folder 'Cleaned Data': <br />
 
@@ -131,6 +134,3 @@ Dataset 1: games.csv <br />
 Dataset 2: recommendations.csv <br />
 Dataset 3: users.csv <br />
 
-## Contribution
-
-## Running the code
