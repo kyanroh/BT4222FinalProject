@@ -15,6 +15,14 @@ Ryan Koh
 
 Welcome to the Steam Game Recommendation System! Our project aims to enhance the game shopping experience on the Steam platform by providing improved game recommendations to users. We utilize various machine learning models to achieve this goal, including similarity-based models, diversity and novelty-based models, and a hybrid model combining both approaches.
 
+## Original Datasets 
+
+We have the following datasets (from Kaggle) available for use but are too large to store in 'Original Data from Kaggle' folder as such we have included a link to the dataset here: https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv <br />
+
+- Dataset 1: games.csv <br />
+- Dataset 2: recommendations.csv <br />
+- Dataset 3: users.csv <br />
+
 ## Models
 
 ### Similarity-Based Models
@@ -139,11 +147,4 @@ Step 3.5 - Hybrid Model
   5. item_matrix.py
   6. games_metadata.json
 
-## Datasets [This part we need to edit to include everything data we need to run the models]
-
-We have the following datasets (from Kaggle) available for use and is stored in 'Original Data from Kaggle' folder: <br />
-
-- Dataset 1: games.csv <br />
-- Dataset 2: recommendations.csv <br />
-- Dataset 3: users.csv <br />
 
