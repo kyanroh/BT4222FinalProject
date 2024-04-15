@@ -27,18 +27,26 @@ To run our Python code and generate game recommendations, download the entire re
 ### Step 1: Extrapolatory Data Analysis 
 Start by running the code to explore the data visually and statistically to gain insights into its characteristics and relationships. <br />
 ### Step 2: Data Preprocessing and Preparation
-Step 2.1 - Data Preprocessing (user_sample???): Get 30,000 users?? <br />
-Step 2.2 - Data Preprocessing (game) <br />
-Step 2.3 - Data Preprocessing (user) <br />
-Step 2.4 - Data Preprocessing (recommendations) <br />
+
+
+<br />
+Step 2.1 - Data Preprocessing (game) <br />
+Step 2.2 - Data Preprocessing (user) <br />
+Step 2.3 - Data Preprocessing (recommendations) <br />
+Step 2.4 - Data Preprocessing (getting_user_sample_data): 
+As the original datasets were too big for our local machines and Google Colab to process, we decided to use a smaller sample of users
+for our recommendation system. Hence, we randomly sampled 30000 users from the users dataset.
+
+In our respective models, we will filter the recommendations and games data such that it only contains recommendations and games
+that are linked to the 30000 users. <br />
 Step 2.5 - Data Preparation (`clustering.ipynb`): This code is to cluster the users into different clusters, to prepare for evaluating the models using precision@k (accuracy). 
 
 The results are saved into the folder 'Cleaned Data': <br />
 
-Dataset 1: sample_user_data.csv <br />
-Dataset 2: games_cleaned_PCA.csv and games_cleaned.csv <br />
-Dataset 3: users_with_score.csv <br />
-Dataset 4: recommendations_with_score.csv <br />
+Dataset 1: games_cleaned_PCA.csv and games_cleaned.csv <br />
+Dataset 2: users_with_score.csv <br />
+Dataset 3: recommendations_with_score.csv <br />
+Dataset 4: sample_user_data.csv <br />
 Dataset 5: clustering.csv <br />
 
 ### Step 3: Models
