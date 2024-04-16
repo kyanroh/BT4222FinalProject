@@ -22,6 +22,7 @@ We have the following datasets (from Kaggle) available for use but are too large
 - Dataset 1: games.csv <br />
 - Dataset 2: recommendations.csv <br />
 - Dataset 3: users.csv <br />
+- Dataset 4: games_metadata.json <br/>
 
 ## Models
 
