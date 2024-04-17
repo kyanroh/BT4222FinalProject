@@ -71,7 +71,8 @@ Included in the user credibility score
 
 ### Step 2.3 - Data Preprocessing (user_sample_data): 
 
-As the original datasets were too big for our local machines and Google Colab to process, we decided to use a smaller sample of users
+In order to get valid recommendations, we decided to filter the user dataset such that all users have at least 8 reviews. This gives us enough information as to what the user likes or dislikes.
+In addition, As the original datasets were too big for our local machines and Google Colab to process, we decided to use a smaller sample of users
 for our recommendation system. Hence, we randomly sampled 30000 users from the user dataset. In our respective models, we will filter the recommendations and games data to only contain recommendations and games linked to the 30000 users. 
 
 ### Step 2.4 - Data Preprocessing (recommendations) 
